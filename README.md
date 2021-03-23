@@ -1,4 +1,4 @@
 # NormalizeNetflix
 ### BCNF 
 
-<img src="NormalizeNetflix.jpg"/>
+<img src="netflixDiagram.png"/>
